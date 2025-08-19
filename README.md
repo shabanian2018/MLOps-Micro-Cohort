@@ -51,15 +51,7 @@ MLOps brings the discipline of DevOps to ML workflows. In this project, we use [
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch training
-python src/train_model.py --config sweep/sweep.yaml
-
+## 🚀 How to Cite
 
 @article{shabanian2025pathway,
   title={Paired-Sample and Pathway-Anchored MLOps Framework for Robust Transcriptomic Machine Learning in Small Cohorts},
