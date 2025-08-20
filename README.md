@@ -42,15 +42,15 @@ MLOps brings the discipline of DevOps to ML workflows. In this project, we use [
 
 ## 📊 Case Studies  
 
-![Overview of Methods and Process Flow of the Proof-of-Concept Study](image/png-revision-WandB-Final-Overview.png)
+![Overview of Methods and Process Flow of the Proof-of-Concept Study](Images/png-revision-WandB-Final-Overview.png)
 
-![Description of the N-of-1-pathways Wilcoxon analytics in each single subject](image/Nof1.png)
+![Description of the N-of-1-pathways Wilcoxon analytics in each single subject](Images/Nof1.png)
 
 ---
 
 ## 📈 Results  
 
-![Results](image/P-R-HRV-BC.png)
+![Results](Images/P-R-HRV-BC.png)
 
 ---
 
