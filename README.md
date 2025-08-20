@@ -20,7 +20,6 @@ This project introduces a biologically informed classification pipeline for micr
 
 ---
 
-
 ## ⚙️ Why MLOps?  
 
 Traditional ML scripts often fail in biomedical research because they:  
