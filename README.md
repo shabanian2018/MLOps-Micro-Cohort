@@ -39,16 +39,22 @@ MLOps brings the discipline of DevOps to ML workflows. In this project, we use [
 
 ➡️ In complex biomedical ML projects, MLOps provides **scalability, transparency, and accountability**.  
 
+---
+
+## 📊 Case Studies  
+
+![Overview of Methods and Process Flow of the Proof-of-Concept Study](images/png-revision-WandB-Final-Overview.png)
+
+![Description of the N-of-1-pathways Wilcoxon analytics in each single subject](images/Nof1.png)
 
 ---
 
-## 📊 Case Studies
-![](images/png-revision-WandB-Final-Overview.png)
+## 📈 Results  
 
-![](images/Nof1.png)
+![Results](images/P-R-HRV-BC.png)
+
 ---
-## Results
-P-R-HRV-BC.png
+
 
 ## 🚀 How to Cite
 
