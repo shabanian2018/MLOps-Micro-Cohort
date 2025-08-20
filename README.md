@@ -43,13 +43,12 @@ MLOps brings the discipline of DevOps to ML workflows. In this project, we use [
 ---
 
 ## 📊 Case Studies
+![](images/png-revision-WandB-Final-Overview.png)
 
-| Dataset | Condition         | Accuracy | Precision | Recall |
-|---------|-------------------|----------|-----------|--------|
-| HRV     | Symptomatic vs. Asymptomatic | 95%      | 97%       | 95%    |
-| BC      | TP53 vs. PIK3CA   | 89%      | 90%       | 90%    |
-
+![](images/Nof1.png)
 ---
+## Results
+P-R-HRV-BC.png
 
 ## 🚀 How to Cite
 
