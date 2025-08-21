@@ -1,1 +1,19 @@
-
+method: random
+metric:
+  name: cv/accuracy_mean
+  goal: maximize
+parameters:
+  n_estimators:
+    min: 5
+    max: 150
+  max_features:
+    values: ["sqrt", "log2", null]
+  random_seed:
+    values: [42]
+  max_depth:
+    min: 5
+    max: 200
+  criterion:
+    values: ["gini", "entropy"]
+  test_size:
+    values: [0.2]
