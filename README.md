@@ -42,18 +42,6 @@ MLOps brings the discipline of DevOps to ML workflows. In this project, we use [
 
 ## 📊 Case Studies  
 
-MLOps-Micro-Cohort-Repo/
-├─ .gitignore
-├─ README.md
-├─ requirements.txt
-├─ docs/
-│  └─ DATA_FORMAT.md
-├─ sweep/
-│  └─ sweep.yaml
-└─ src/
-   └─ train_cv_rf.py
-
-
 <!-- ![Overview of Methods and Process Flow of the Proof-of-Concept Study](Images/png-revision-WandB-Final-Overview.png) -->
 
 <!-- ![Description of the N-of-1-pathways Wilcoxon analytics in each single subject](Images/Nof1.png) -->
